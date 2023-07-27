@@ -103,6 +103,9 @@ body {
   color: black;
   text-decoration: none;
 }
+.small {
+  font-size: 13px;
+}
 
 /* work styles */
 .work-1 {
